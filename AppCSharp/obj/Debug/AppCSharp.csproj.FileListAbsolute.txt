@@ -1,0 +1,46 @@
+c:\users\sodrk\documents\visual studio 2015\Projects\AppCSharp\AppCSharp\bin\Debug\AppCSharp.exe.config
+c:\users\sodrk\documents\visual studio 2015\Projects\AppCSharp\AppCSharp\bin\Debug\AppCSharp.exe
+c:\users\sodrk\documents\visual studio 2015\Projects\AppCSharp\AppCSharp\bin\Debug\AppCSharp.pdb
+c:\users\sodrk\documents\visual studio 2015\Projects\AppCSharp\AppCSharp\obj\Debug\AppCSharp.csprojResolveAssemblyReference.cache
+c:\users\sodrk\documents\visual studio 2015\Projects\AppCSharp\AppCSharp\obj\Debug\AppCSharp.Form1.resources
+c:\users\sodrk\documents\visual studio 2015\Projects\AppCSharp\AppCSharp\obj\Debug\AppCSharp.Properties.Resources.resources
+c:\users\sodrk\documents\visual studio 2015\Projects\AppCSharp\AppCSharp\obj\Debug\AppCSharp.csproj.GenerateResource.Cache
+c:\users\sodrk\documents\visual studio 2015\Projects\AppCSharp\AppCSharp\obj\Debug\AppCSharp.exe
+c:\users\sodrk\documents\visual studio 2015\Projects\AppCSharp\AppCSharp\obj\Debug\AppCSharp.pdb
+C:\Users\user\Desktop\AppCSharp\AppCSharp\obj\Debug\AppCSharp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\AppCSharp\AppCSharp\obj\Debug\AppCSharp.Form1.resources
+C:\Users\user\Desktop\AppCSharp\AppCSharp\obj\Debug\AppCSharp.Properties.Resources.resources
+C:\Users\user\Desktop\AppCSharp\AppCSharp\obj\Debug\AppCSharp.csproj.GenerateResource.cache
+C:\Users\user\Desktop\AppCSharp\AppCSharp\obj\Debug\AppCSharp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AppCSharp\AppCSharp\obj\Debug\AppCSharp.exe
+C:\Users\user\Desktop\AppCSharp\AppCSharp\obj\Debug\AppCSharp.pdb
+C:\Users\user\Desktop\AppCSharp\AppCSharp\bin\Debug\AppCSharp.exe.config
+C:\Users\user\Desktop\AppCSharp\AppCSharp\bin\Debug\AppCSharp.exe
+C:\Users\user\Desktop\AppCSharp\AppCSharp\bin\Debug\AppCSharp.pdb
+C:\Users\user\Desktop\AppCSharp\AppCSharp\obj\Debug\Tictac.Login.resources
+C:\Users\user\Desktop\AppCSharp\AppCSharp\obj\Debug\Tictac.Registration.resources
+C:\Users\D1vZe\Desktop\AppCSharp\AppCSharp\obj\Debug\AppCSharp.csproj.AssemblyReference.cache
+C:\Users\D1vZe\Desktop\AppCSharp\AppCSharp\obj\Debug\AppCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\D1vZe\Desktop\AppCSharp\AppCSharp\obj\Debug\AppCSharp.Form1.resources
+C:\Users\D1vZe\Desktop\AppCSharp\AppCSharp\obj\Debug\Tictac.Login.resources
+C:\Users\D1vZe\Desktop\AppCSharp\AppCSharp\obj\Debug\AppCSharp.Properties.Resources.resources
+C:\Users\D1vZe\Desktop\AppCSharp\AppCSharp\obj\Debug\Tictac.Registration.resources
+C:\Users\D1vZe\Desktop\AppCSharp\AppCSharp\obj\Debug\AppCSharp.csproj.GenerateResource.cache
+C:\Users\D1vZe\Desktop\AppCSharp\AppCSharp\obj\Debug\AppCSharp.csproj.CoreCompileInputs.cache
+C:\Users\D1vZe\Desktop\AppCSharp\AppCSharp\obj\Debug\AppCSharp.exe
+C:\Users\D1vZe\Desktop\AppCSharp\AppCSharp\obj\Debug\AppCSharp.pdb
+C:\Users\D1vZe\Desktop\AppCSharp\AppCSharp\bin\Debug\AppCSharp.exe.config
+C:\Users\D1vZe\Desktop\AppCSharp\AppCSharp\bin\Debug\AppCSharp.exe
+C:\Users\D1vZe\Desktop\AppCSharp\AppCSharp\bin\Debug\AppCSharp.pdb
+C:\AppCSharp\AppCSharp\bin\Debug\AppCSharp.exe.config
+C:\AppCSharp\AppCSharp\bin\Debug\AppCSharp.exe
+C:\AppCSharp\AppCSharp\bin\Debug\AppCSharp.pdb
+C:\AppCSharp\AppCSharp\obj\Debug\AppCSharp.csproj.AssemblyReference.cache
+C:\AppCSharp\AppCSharp\obj\Debug\AppCSharp.Form1.resources
+C:\AppCSharp\AppCSharp\obj\Debug\Tictac.Login.resources
+C:\AppCSharp\AppCSharp\obj\Debug\AppCSharp.Properties.Resources.resources
+C:\AppCSharp\AppCSharp\obj\Debug\Tictac.Registration.resources
+C:\AppCSharp\AppCSharp\obj\Debug\AppCSharp.csproj.GenerateResource.cache
+C:\AppCSharp\AppCSharp\obj\Debug\AppCSharp.csproj.CoreCompileInputs.cache
+C:\AppCSharp\AppCSharp\obj\Debug\AppCSharp.exe
+C:\AppCSharp\AppCSharp\obj\Debug\AppCSharp.pdb
